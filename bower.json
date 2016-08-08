@@ -1,6 +1,6 @@
 {
   "name": "sugar-inflections",
-  "description": "A Javascript utility library for working with native objects. Inflections module.",
+  "description": "Inflections module for the Sugar Javascript utility library.",
   "homepage": "https://sugarjs.com/",
   "license": "MIT",
   "authors": [
